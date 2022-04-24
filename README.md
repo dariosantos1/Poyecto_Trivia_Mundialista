@@ -1,5 +1,7 @@
+
 # Poyecto Trivia Mundialista
-! [logotipo] (mundiales.jpg)
+![logotipo](/logotrivia.jpg)
+
 
 En este primer proyecto gestione un juego de preguntas y respuestas, donde pueden jugar hasta un maximo de dos jugadores.
 Si se elige el modo de un solo jugador, el mismo será sometido a un cuestionario de 20 preguntas referido a los mundiales de futbol.
