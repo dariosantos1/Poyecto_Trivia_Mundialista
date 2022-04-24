@@ -43,7 +43,7 @@ def ganadores_historicos () : # Consulta en el archivo "puntajes.csv" todos los 
     csvfile = open ("puntajes.csv")
     data = list (csv.DictReader(csvfile))
     cantidad_filas = len(data)
-    print ("Este Son Los Ganadores Históricos De La Trivia")
+    print ("Estos Son Los Ganadores Históricos De La Trivia")
     for i in range (cantidad_filas) :
         filanombre = data [i].get("Nombre")
         filapuntaje = data [i].get("Puntaje")
